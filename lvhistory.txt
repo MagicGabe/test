@@ -1,0 +1,23 @@
+    1  cd
+    2  ll
+    3  cd test
+    4  get pull
+    5  git pull
+    6  ll
+    7  git pull
+    8  ll
+    9  vi dgtest.txt 
+   10  history
+   11  commit
+   12  git commit -m "test" dgtest.txt
+   13  cd test
+   14  git push
+   15  cat history
+   16  cdcd 
+   17  ll
+   18  cd .
+   19  cd
+   20  cat histroy
+   21  cat history
+   22  history
+   23  history >> lvhistory.txt
